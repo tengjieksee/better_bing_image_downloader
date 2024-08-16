@@ -20,7 +20,7 @@ Please do not download or use any image that violates its copyright terms.
 ### Installation <br />
 
 ```bash
-git clone https://github.com/KTS-o7better_bing_image_downloader
+git clone https://github.com/tengjieksee/better_bing_image_downloader/tree/main
 python -m venv ./env
 source env/bin/activate
 cd better_bing_image_downloader
